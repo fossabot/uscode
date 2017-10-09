@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fuscode.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fuscode?ref=badge_shield)
+
 This repository contains the complete United States Code.  Its purpose
 is to publish the federal code in a way that makes it easy for
 interested individuals to access both its content and its changes over
@@ -43,3 +45,6 @@ isn't available.  I think using revision management tools just might
 make the whole process both easier and more transparent.
 
 And that's what I want to play with.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fuscode.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fuscode?ref=badge_large)
